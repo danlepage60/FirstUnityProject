@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public float turnSmoothTime = 0.1f;
     public float groundsDistance = 0.4f;
     public float gravity = -9.81f;
-    public float jumpHeight = 3f;
+    public float jumpHeight = 2.5f;
 
 
     public LayerMask groundMask;
